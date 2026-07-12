@@ -1,4 +1,4 @@
-# Section 0: Setup
+# Stage 0: Setup
 
 Before we go into codes, we should prepare the necessary setup and environments.
 
