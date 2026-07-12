@@ -2,7 +2,7 @@
 
 A beginner-friendly learning repository for moving from **Python basics** to building and operating AI systems.
 
-Think of this repository as a school made of rooms:
+Think of this repository as a school made of room sections:
 
 - Each **folder** is a classroom.
 - Each **notebook** is a lesson book.
@@ -36,7 +36,7 @@ ai-engineering-school/
 
 ## Why this structure?
 
-The course introduction presents a staircase from Python to data work, preprocessing and feature engineering, machine learning, deep learning, MLOps, and AI applications. This repository follows that staircase while adding setup, testing, projects, and a separate data-preprocessing stage.
+The course introduction presents a staircase from Python to data manipulation, preprocessing and feature engineering, machine learning, deep learning, MLOps, and AI applications. This repository follows that staircase while adding setup, testing, projects, and a separate data-preprocessing stage.
 
 ## What is ready now?
 
