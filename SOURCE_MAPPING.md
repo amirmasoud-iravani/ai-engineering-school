@@ -1,14 +1,14 @@
 # How the uploaded course files were used
 
-This repository is a **clean teaching rewrite** based on the uploaded introduction PDF and six Python notebooks.
+This repository is based on the uploaded introduction PDF file and six Python notebooks.
 
 ## Introduction PDF
 
-Useful foundations kept:
+Useful foundations:
 
-- the course staircase: Python → data work → preprocessing/feature engineering → machine learning → deep learning → MLOps → AI application;
+- the course staircase: Python → data manipulation → preprocessing/feature engineering → machine learning → deep learning → MLOps → AI application;
 - Python as a high-level, interpreted, general-purpose language;
-- Jupyter and code editors as learning tools;
+- Jupyter and code editors like Cursor as learning tools;
 - the practical trade-off between Python's simplicity and raw execution speed.
 
 Teaching improvements:
