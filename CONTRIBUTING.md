@@ -1,4 +1,4 @@
-# Contributing to the school
+# Contributing to the School
 
 When adding a lesson:
 
