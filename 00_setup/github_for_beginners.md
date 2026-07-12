@@ -1,13 +1,13 @@
-# GitHub for a five-year-old
+# GitHub for Beginners
 
-GitHub is an online shelf for code.
+GitHub is an online shelf for your codes.
 
 - Your project folder is a **toy box**.
 - Git takes **photos** of the toy box over time. Each photo is a **commit**.
 - GitHub stores the toy box and its photos online.
 - A repository is one shelf containing one project.
 
-## Suggested repository name
+## Current Repository Name
 
 ```text
 ai-engineering-school
@@ -16,35 +16,20 @@ ai-engineering-school
 Suggested description:
 
 ```text
-My step-by-step journey from Python basics to machine learning, deep learning, MLOps, and AI applications.
+A step-by-step journey from Python basics to machine learning, deep learning, MLOps, and AI applications.
 ```
 
-## Easy method: GitHub website
+## Easy method for uploading via GitHub website
 
 1. Create an empty repository named `ai-engineering-school`.
-2. Extract the downloaded ZIP file.
-3. Open your empty repository on GitHub.
-4. Choose the option to add/upload files.
-5. Drag the **contents** of the extracted `ai-engineering-school` folder into the upload area.
+2. Open your empty repository on GitHub.
+3. Choose the option to add/upload files.
+4. Drag the **contents** of the `ai-engineering-school` folder into the upload area.
 6. Write a message such as `Add initial AI engineering school structure`.
 7. Commit the upload.
 
-## Better long-term method: Git commands
 
-Run these commands from inside the extracted repository folder:
-
-```bash
-git init
-git add .
-git commit -m "Build the first Python classroom"
-git branch -M main
-git remote add origin YOUR_REPOSITORY_URL
-git push -u origin main
-```
-
-Replace `YOUR_REPOSITORY_URL` with the URL of the empty repository you created.
-
-## Your everyday three-step habit
+## Everyday Three-Step Habit
 
 After changing lessons:
 
