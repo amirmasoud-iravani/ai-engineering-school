@@ -36,11 +36,11 @@ ai-engineering-school/
 
 ## Why this structure?
 
-The course introduction presents a staircase from Python to data manipulation, preprocessing and feature engineering, machine learning, deep learning, MLOps, and AI applications. This repository follows that staircase while adding setup, testing, projects, and a separate data-preprocessing stage.
+The course follows a staircase from Python to data manipulation, preprocessing and feature engineering, machine learning, deep learning, MLOps, and AI applications. This repository follows that roadmap while adding setup, testing, projects, and a separate data-preprocessing stage.
 
 ## What is ready now?
 
-The **Python classroom** is ready. The later classrooms contain carefully planned lesson maps so the repository can grow without becoming messy.
+The **Python classroom** is ready and complete. The later classrooms contain carefully planned lesson maps so the repository can grow without becoming messy.
 
 ## Run the notebooks
 
