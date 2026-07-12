@@ -1,6 +1,6 @@
-# Room 1: Python
+# Section 1: Python
 
-Python is a way to give a computer small, exact instructions.
+Python is a way to give a computer small, exact instructions known as codes.
 
 ## Lesson order
 
