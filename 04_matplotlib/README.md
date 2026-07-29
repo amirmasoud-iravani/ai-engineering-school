@@ -72,9 +72,3 @@ Optional Persian/Arabic text shaping:
 pip install arabic-reshaper python-bidi
 ```
 
-## Notes
-
-- All teaching datasets and reported values are synthetic.
-- Replace generated DataFrames with versioned project data when adapting the notebooks.
-- The notebooks favor Matplotlib's explicit object-oriented `Figure`/`Axes` interface.
-- Generated figures are written to a local `figures/` folder, which you may add to `.gitignore` if you do not want to commit rendered outputs.
