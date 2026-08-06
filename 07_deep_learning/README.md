@@ -1,6 +1,6 @@
 # Deep learning with PyTorch
 
-This classroom is planned but not filled yet. Keeping the folder now gives the school a stable map.
+This classroom is planned but not filled yet. Keeping the folder now gives the school a stable map. I think of both colab and local machine implementations.
 
 ## Planned lessons
 
