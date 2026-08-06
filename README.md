@@ -1,31 +1,31 @@
 # AI Engineering School
 
-A beginner-friendly learning repository for moving from **Python basics** to building and operating AI systems.
+A beginner-friendly learning repository for moving from **Python fundamentals** to building and operating AI systems.
 
-Think of this repository as a school made of room sections:
+The repository is organized as a sequence of stages:
 
-- Each **folder** is a classroom.
-- Each **notebook** is a lesson book.
-- Each **code cell** is a little experiment button.
-- Each **project** is a toy you build from the pieces you learned.
+- each **folder** is one stage;
+- each **notebook** is one lesson;
+- each **code cell** is a small experiment;
+- each **exercise or project** applies the ideas introduced in the lessons.
 
 ## Start here
 
-1. Open `00_setup/README.md`.
-2. Study `01_python/` in numerical order.
-3. Run the notebooks yourself. Reading code without running it is like reading about swimming without touching water.
-4. Complete the exercises before looking at the solutions.
-5. Build the Python mini-project.
+1. Prepare the environment with `00_setup/README.md`.
+2. Follow stages `01_python/` through `04_matplotlib/` in numerical order.
+3. Run every notebook and change small values to test your understanding.
+4. Complete exercises before reading their reference solutions.
+5. Finish each stage's practice or project before moving forward.
 
 ## School map
 
 ```text
 ai-engineering-school/
-├── 00_setup/                 # Install tools and learn the repository
-├── 01_python/                # Current complete module
-├── 02_numpy/                 # Numerical arrays
-├── 03_pandas/                # Tables and data cleaning
-├── 04_matplotlib/            # Data visualization
+├── 00_setup/                 # Install the learning environment
+├── 01_python/                # Python fundamentals
+├── 02_numpy/                 # Numerical arrays for data and NLP
+├── 03_pandas/                # Tabular data and cleaning
+├── 04_matplotlib/            # Visualization and research figures
 ├── 05_data_preprocessing/    # Preparing data for models
 ├── 06_machine_learning/      # Classical ML
 ├── 07_deep_learning/         # Neural networks and PyTorch
@@ -34,37 +34,34 @@ ai-engineering-school/
 └── 10_projects/              # End-to-end portfolio projects
 ```
 
-## Why this structure?
+## Learning path
 
-The course follows a staircase from Python to data manipulation, preprocessing and feature engineering, machine learning, deep learning, MLOps, and AI applications. This repository follows that roadmap while adding setup, testing, projects, and a separate data-preprocessing stage.
+The completed path is:
 
-## What is ready now?
+```text
+Python → NumPy arrays → pandas tables → Matplotlib visualizations
+```
 
-The **Python classroom** is ready and complete. The later classrooms contain carefully planned lesson maps so the repository can grow without becoming messy.
+Stages `01`–`04` are complete. Stages `05`–`10` currently provide lesson maps for data preprocessing, machine learning, deep learning, MLOps, AI applications, and end-to-end projects.
 
 ## Run the notebooks
 
-From the repository folder:
-
-```bash
-python -m venv .venv
-```
-
-On Windows PowerShell:
+From the repository folder in Windows PowerShell:
 
 ```powershell
+python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 jupyter lab
 ```
 
-Then open `01_python/README.md`.
+Then open `01_python/README.md` and continue in numerical order.
 
 ## Learning rule
 
-Every lesson follows this pattern:
+Completed stages follow this general pattern:
 
-> tiny idea → tiny code → tiny exercise → small project
+> small idea → worked example → checkpoint or exercise → application
 
-That is how large skills are built: one small block at a time.
+Large technical skills grow through small, connected steps.
