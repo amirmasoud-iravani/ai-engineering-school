@@ -12,7 +12,7 @@ The repository is organized as a sequence of stages:
 ## Start here
 
 1. Prepare the environment with `00_setup/README.md`.
-2. Follow stages `01_python/` through `04_matplotlib/` in numerical order.
+2. Follow stages `01_python/` through `05_data_preprocessing/` in numerical order.
 3. Run every notebook and change small values to test your understanding.
 4. Complete exercises before reading their reference solutions.
 5. Finish each stage's practice or project before moving forward.
@@ -26,7 +26,7 @@ ai-engineering-school/
 ├── 02_numpy/                 # Numerical arrays for data and NLP
 ├── 03_pandas/                # Tabular data and cleaning
 ├── 04_matplotlib/            # Visualization and research figures
-├── 05_data_preprocessing/    # Preparing data for models
+├── 05_data_preprocessing/    # Leakage-safe model-ready features
 ├── 06_machine_learning/      # Classical ML
 ├── 07_deep_learning/         # Neural networks and PyTorch
 ├── 08_mlops/                 # Testing, deployment, monitoring
@@ -40,9 +40,10 @@ The completed path is:
 
 ```text
 Python → NumPy arrays → pandas tables → Matplotlib visualizations
+       → leakage-safe data preprocessing
 ```
 
-Stages `01`–`04` are complete. Stages `05`–`10` currently provide lesson maps for data preprocessing, machine learning, deep learning, MLOps, AI applications, and end-to-end projects.
+Stages `01`–`05` are complete. Stages `06`–`10` currently provide lesson maps for machine learning, deep learning, MLOps, AI applications, and end-to-end projects.
 
 ## Run the notebooks
 
